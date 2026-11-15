@@ -1,0 +1,21 @@
+# Dependencies (leftover image tooling, not needed at runtime)
+node_modules/
+package-lock.json
+
+# Backups
+*.bak
+*.orig
+*.tmp
+
+# Env / secrets
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
